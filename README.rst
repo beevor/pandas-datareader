@@ -1,26 +1,9 @@
 pandas-datareader
 =================
 
-Up to date remote data access for pandas, works for multiple versions of pandas.
+Version 0.5.0 with daily.py modified to allow reading Google's financial data, although it seems to be hit and miss sometimes.
+Currently using with zipline=1.1.1-np111py35_0, pandas=0.18.1/
 
-.. image:: https://img.shields.io/pypi/v/pandas-datareader.svg
-    :target: https://pypi.python.org/pypi/pandas-datareader/
-    
-.. image:: https://img.shields.io/pypi/dm/pandas-datareader.svg
-    :target: https://pypi.python.org/pypi/pandas-datareader/
-
-.. image:: https://travis-ci.org/pydata/pandas-datareader.svg?branch=master
-    :target: https://travis-ci.org/pydata/pandas-datareader
-
-.. image:: https://coveralls.io/repos/pydata/pandas-datareader/badge.svg?branch=master
-    :target: https://coveralls.io/r/pydata/pandas-datareader
-
-.. image:: https://readthedocs.org/projects/pandas-datareader/badge/?version=latest
-    :target: https://pandas-datareader.readthedocs.io/en/latest/
-
-.. image:: https://landscape.io/github/pydata/pandas-datareader/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/pydata/pandas-datareader/master
-   :alt: Code Health
 
 Installation
 ------------
